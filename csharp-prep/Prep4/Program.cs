@@ -32,6 +32,9 @@ class Program
             int max = numbers.Max();
             Console.WriteLine("Max = " + max);
         }
-      
+        else
+        {
+            Console.WriteLine("Error. No numbers were entered.");
+        }
     }
 }
