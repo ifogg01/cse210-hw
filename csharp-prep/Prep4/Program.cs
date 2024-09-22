@@ -4,7 +4,7 @@ using System.Linq;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         List<int> numbers = new List<int>();
         int input;
