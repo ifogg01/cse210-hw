@@ -1,0 +1,4 @@
+14
+SimpleGoal,hug wife,10,Completed
+EternalGoal,read scripts,10,Repeatable
+ChecklistGoal,say hi to neighbor,4,Completed 1/3 times
